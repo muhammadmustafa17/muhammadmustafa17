@@ -5,6 +5,7 @@
 - [FUZZY LOGIC VS. DEEP LEARNING: A COMPARATIVE STUDY FOR IMAGE-BASED POTHOLE DETECTION IN MICHIGAN](https://github.com/muhammadmustafa17/FUZZY-LOGIC-VS.-DEEP-LEARNING-A-COMPARATIVE-STUDY-FOR-IMAGE-BASED-POTHOLE-DETECTION-IN-MICHIGAN.git)
 - [SOCIAL MEDIA DATA MINING TO GAUGE POSITIVE OR NEGATIVE RESPONSES TOWARDS A COMPANY](https://github.com/muhammadmustafa17/SOCIAL-MEDIA-DATA-MINING-TO-GAUGE-POSITIVE-OR-NEGATIVE-RESPONSES-TOWARDS-A-COMPANY.git)
 - [Sign Language Recognition](https://github.com/muhammadmustafa17/sign_Language.git)
+- [SuperMarioBros Using Reinforcement Learning](https://github.com/muhammadmustafa17/mariobros.git)
 - [AI Chatbot using Ollama](https://github.com/muhammadmustafa17/chatbotllama.git)
 - [Face Recognition Attendance System](https://github.com/muhammadmustafa17/facerecognition_tensorflow_GPU.git)
 - [Inventory Management System](https://github.com/muhammadmustafa17/ims.git)
