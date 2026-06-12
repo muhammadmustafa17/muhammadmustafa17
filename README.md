@@ -20,8 +20,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MuhammadMustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MuhammadMustafa | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="MuhammadMustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MuhammadMustafa | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitch.svg" />][twitch]
+[<img align="left" alt="MuhammadMustafa | Handshake" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake.svg" />][handshake]
 
 [linkedin]: https://www.linkedin.com/in/muhamumustafa
 [twitch]: https://www.twitch.tv/cityhuntermallick
+[handshake]: https://wayne.joinhandshake.com/profiles/muhammu
