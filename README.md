@@ -25,5 +25,5 @@
 [<img align="left" alt="MuhammadMustafa | Handshake" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake.svg" />][handshake]
 
 [linkedin]: https://www.linkedin.com/in/muhamumustafa
-[twitch]: https://www.twitch.tv/cityhuntermallick
 [handshake]: https://wayne.joinhandshake.com/profiles/muhammu
+[twitch]: https://www.twitch.tv/cityhuntermallick
