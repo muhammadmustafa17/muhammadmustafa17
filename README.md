@@ -34,7 +34,7 @@ Software Engineer passionate about building high-performance software, embedded 
 
 # 👨‍💻 About Me
 
-🎓 Master's in Artificial Intelligence from the **University of Michigan–Dearborn**
+🎓 Master's in Artificial Intelligence from the **University of Michigan Dearborn**
 
 I enjoy developing software that combines artificial intelligence, computer vision, and embedded systems to solve real-world engineering problems. My interests span modern C++, Embedded Linux, systems programming, robotics, machine learning, and high-performance software development.
 
