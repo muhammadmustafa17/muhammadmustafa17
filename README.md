@@ -43,7 +43,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Master's in Artificial Intelligence from the **University of Michigan–Dearborn**
+🎓 Master's in Artificial Intelligence from the **University of Michigan Dearborn**
 
 I'm a software engineer passionate about building reliable, high-performance software for real-world engineering problems. My interests include embedded systems, modern C++, Linux systems programming, computer vision, robotics, machine learning, and artificial intelligence.
 
