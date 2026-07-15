@@ -43,11 +43,11 @@
 
 # 👨‍💻 About Me
 
-🎓 Master's in Artificial Intelligence from the **University of Michigan Dearborn**
+🎓 Master's in Artificial Intelligence from the **University of Michigan–Dearborn**
 
-I'm a software engineer passionate about building reliable, high-performance software for real-world engineering problems. My interests include embedded systems, modern C++, Linux systems programming, computer vision, robotics, and artificial intelligence.
+I'm a software engineer passionate about building reliable, high-performance software for real-world engineering problems. My interests include embedded systems, modern C++, Linux systems programming, computer vision, robotics, machine learning, and artificial intelligence.
 
-I enjoy taking projects from concept to implementation, whether that involves developing machine learning models, building embedded applications, or designing software that interacts directly with hardware.
+I enjoy taking projects from concept to implementation, whether that involves developing machine learning models, building embedded applications, designing computer vision systems, or creating software that interacts directly with hardware.
 
 I'm currently seeking opportunities as an:
 
@@ -82,7 +82,11 @@ I am looking for an opportunity where I can contribute to challenging engineerin
 - Data Structures and Algorithms
 - Linux Development
 - Computer Architecture
-- TCP/IP and Socket Programming
+- TCP/IP
+- Socket Programming
+- CAN
+- ROS
+- RTOS
 
 ## Artificial Intelligence & Computer Vision
 
@@ -97,9 +101,11 @@ I am looking for an opportunity where I can contribute to challenging engineerin
 - NumPy
 - Pandas
 - scikit-learn
+- Keras
 - Deep Learning
 - Reinforcement Learning
 - Fuzzy Logic
+- AprilTags
 
 ## Development Tools
 
@@ -110,9 +116,15 @@ I am looking for an opportunity where I can contribute to challenging engineerin
   />
 </p>
 
+- Jupyter Notebook
+- CMake
+- GitHub
+- Visual Studio Code
+- Linux
+
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Software Projects
 
 ## 🤟 Sign Language Recognition
 
@@ -146,7 +158,7 @@ The system compares facial embeddings to determine whether two images belong to 
 
 A locally hosted AI chatbot powered by **Ollama** that demonstrates local large language model deployment and conversational AI.
 
-The project provides an interface for sending prompts to a locally running model without relying on a cloud-based inference service.
+The project provides an interface for sending prompts to a locally running language model without relying entirely on a cloud-based inference service.
 
 **Technologies:** Python, Ollama, Large Language Models
 
@@ -154,39 +166,15 @@ The project provides an interface for sending prompts to a locally running model
 
 ---
 
-## 🎮 Super Mario Reinforcement Learning
+## 🎮 Super Mario Bros Using Reinforcement Learning
 
 A reinforcement-learning project in which an AI agent learns to play Super Mario Bros through repeated interaction with the game environment.
 
-The agent improves its behavior by observing game states, selecting actions, and learning from rewards and penalties.
+The agent observes game states, selects actions, and improves its behavior by learning from rewards and penalties.
 
 **Technologies:** Python, Reinforcement Learning, Neural Networks, OpenAI Gym
 
 [🔗 View GitHub Repository](https://github.com/muhammadmustafa17/mariobros)
-
----
-
-## 📊 Social Media Data Mining
-
-A machine learning and data mining project that analyzes social media content to determine whether public responses toward a company are positive or negative.
-
-The project involved collecting, preprocessing, and analyzing text data to gain insights into customer sentiment and public opinion.
-
-**Technologies:** Python, Pandas, scikit-learn, Data Mining, Natural Language Processing
-
-[🔗 View GitHub Repository](https://github.com/muhammadmustafa17/SOCIAL-MEDIA-DATA-MINING-TO-GAUGE-POSITIVE-OR-NEGATIVE-RESPONSES-TOWARDS-A-COMPANY)
-
----
-
-## 🛣️ Pothole Detection Research
-
-A research project comparing **Fuzzy Logic** and **Deep Learning** approaches for image-based pothole detection.
-
-The project explored how different methods could identify potholes, estimate severity, and support more informed road-maintenance decisions.
-
-**Technologies:** Python, Fuzzy Logic, Deep Learning, Image Processing
-
-[🔗 View GitHub Repository](https://github.com/muhammadmustafa17/FUZZY-LOGIC-VS.-DEEP-LEARNING-A-COMPARATIVE-STUDY-FOR-IMAGE-BASED-POTHOLE-DETECTION-IN-MICHIGAN)
 
 ---
 
@@ -204,12 +192,38 @@ The application was designed to support common inventory operations through a st
 
 ---
 
-# 🎥 Additional Project Demonstrations
+# 📄 Research Papers
+
+## 🛣️ Fuzzy Logic vs. Deep Learning: A Comparative Study for Image-Based Pothole Detection in Michigan
+
+A graduate research paper comparing **Fuzzy Logic** and **Deep Learning** approaches for image-based pothole detection and severity assessment.
+
+The study examined the strengths, limitations, and practical applications of both methods for intelligent road-maintenance systems. It explored how image-based detection and fuzzy decision-making could support pothole classification and maintenance prioritization.
+
+**Research Topics:** Computer Vision, Deep Learning, Fuzzy Logic, Image Processing, Pothole Detection
+
+[📄 View Research Repository](https://github.com/muhammadmustafa17/FUZZY-LOGIC-VS.-DEEP-LEARNING-A-COMPARATIVE-STUDY-FOR-IMAGE-BASED-POTHOLE-DETECTION-IN-MICHIGAN)
+
+---
+
+## 📊 Social Media Data Mining to Gauge Positive or Negative Responses Towards a Company
+
+A graduate research paper focused on analyzing social media data to evaluate whether public responses toward a company were positive or negative.
+
+The research involved preprocessing and analyzing textual data using data-mining and machine-learning techniques to identify sentiment patterns and provide insight into public opinion.
+
+**Research Topics:** Data Mining, Machine Learning, Natural Language Processing, Sentiment Analysis, Text Processing
+
+[📄 View Research Repository](https://github.com/muhammadmustafa17/SOCIAL-MEDIA-DATA-MINING-TO-GAUGE-POSITIVE-OR-NEGATIVE-RESPONSES-TOWARDS-A-COMPANY)
+
+---
+
+# 🎥 Project Demonstrations
 
 - [Sign Language Recognition](https://youtu.be/nhx_KAgkzxo)
 - [Face Recognition Attendance System](https://youtu.be/Q-72Z1Mqt6Y)
 - [Inventory Management System](https://youtu.be/mab5HBdhgk4)
-- [FPGA Finite State Machine Calculator](https://youtu.be/zDSBGFdlpR4)
+- [Finite State Machine Calculator Using FPGA](https://youtu.be/zDSBGFdlpR4)
 
 ---
 
@@ -223,6 +237,7 @@ The application was designed to support common inventory operations through a st
 - Computer Architecture
 - Multithreaded Programming
 - Software Design Patterns
+- Hardware and Software Integration
 
 ---
 
@@ -241,14 +256,15 @@ The application was designed to support common inventory operations through a st
 
 - Embedded Software Engineering
 - Firmware Development
+- Systems Software Engineering
 - Robotics Software
 - Artificial Intelligence
 - Computer Vision
-- Systems Programming
-- High-Performance Computing
 - Linux Systems
 - Modern C++
+- High-Performance Computing
 - Software Architecture
+- Hardware and Software Integration
 
 ---
 
@@ -257,6 +273,7 @@ The application was designed to support common inventory operations through a st
 - Build production-quality embedded software projects
 - Deepen my knowledge of Linux systems programming
 - Improve my modern C++ and multithreading skills
+- Gain more experience with hardware and software integration
 - Contribute to open-source software
 - Continue developing AI and computer vision applications
 - Grow through challenging real-world engineering projects
@@ -265,7 +282,7 @@ The application was designed to support common inventory operations through a st
 
 # 📫 Let's Connect
 
-I'm always happy to connect with engineers, recruiters, and fellow developers to discuss software engineering, embedded systems, artificial intelligence, robotics, and potential opportunities.
+I'm always happy to connect with engineers, recruiters, and fellow developers to discuss software engineering, embedded systems, artificial intelligence, robotics, research, and potential opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamumustafa">
@@ -276,6 +293,10 @@ I'm always happy to connect with engineers, recruiters, and fellow developers to
   </a>
 </p>
 
+- [LinkedIn](https://www.linkedin.com/in/muhamumustafa)
+- [Twitch](https://www.twitch.tv/cityhuntermallick)
+- [Handshake](https://wayne.joinhandshake.com/profiles/muhammu)
+
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore my projects or connect with me on LinkedIn to discuss software engineering, embedded systems, collaboration, or career opportunities.
+Thank you for visiting my GitHub profile. Feel free to explore my software projects and research or connect with me on LinkedIn to discuss software engineering, embedded systems, collaboration, or career opportunities.
