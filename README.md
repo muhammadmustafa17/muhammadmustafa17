@@ -166,6 +166,18 @@ The agent improves its behavior by observing game states, selecting actions, and
 
 ---
 
+## 📊 Social Media Data Mining
+
+A machine learning and data mining project that analyzes social media content to determine whether public responses toward a company are positive or negative.
+
+The project involved collecting, preprocessing, and analyzing text data to gain insights into customer sentiment and public opinion.
+
+**Technologies:** Python, Pandas, scikit-learn, Data Mining, Natural Language Processing
+
+[🔗 View GitHub Repository](https://github.com/muhammadmustafa17/SOCIAL-MEDIA-DATA-MINING-TO-GAUGE-POSITIVE-OR-NEGATIVE-RESPONSES-TOWARDS-A-COMPANY)
+
+---
+
 ## 🛣️ Pothole Detection Research
 
 A research project comparing **Fuzzy Logic** and **Deep Learning** approaches for image-based pothole detection.
