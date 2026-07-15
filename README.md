@@ -5,7 +5,7 @@ Software Engineer | Embedded Systems | C++ | Artificial Intelligence | Computer 
 </h3>
 
 <p align="center">
-I'm a Software Engineer with a <strong>Master's degree in Artificial Intelligence</strong> from the University of Michigan-Dearborn. I enjoy designing and building software that combines AI, computer vision, and embedded systems to solve real-world engineering problems. My interests include C++, Embedded Linux, systems programming, machine learning, robotics, and high-performance software development.
+I'm a Software Engineer with a <strong>Master's degree in Artificial Intelligence</strong> from the University of Michigan Dearborn. I enjoy designing and building software that combines AI, computer vision, and embedded systems to solve real-world engineering problems. My interests include C++, Embedded Linux, systems programming, machine learning, robotics, and high-performance software development.
 </p>
 
 <p align="center">
