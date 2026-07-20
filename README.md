@@ -241,17 +241,6 @@ The research involved preprocessing and analyzing textual data using data-mining
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=muhammadmustafa17&theme=github-dark&hide_border=true"
-    alt="Muhammad Mustafa GitHub contribution streak"
-  />
-</p>
-
----
-
 # 💡 Engineering Interests
 
 - Embedded Software Engineering
